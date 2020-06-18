@@ -1,0 +1,113 @@
+.navbar-nav a:hover
+{
+    color: #007bff!important;
+}
+
+.navbar{
+    margin: 0;
+    padding: 2px;
+    background-color: ghostwhite;
+   border-bottom: 0.1px solid red;
+}
+.navbar-nav a{
+    font-size: 16px;
+    margin-left: 6px;
+    margin-right: 6px;
+    color: #c60711!important; 
+    font-weight:;
+    font-family: arial;
+}
+.card:hover
+{  box-shadow: 0 0 11px rgba(33,33,33,.4); }
+
+
+
+/* the promo4 */
+#promo2{
+    
+     margin-top: 10;
+    background-image:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.17)),url("../img/5.jpg"), url("../img/cover 11.png");
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #efefef !important;
+    text-align: left;
+    padding: 60px 50px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+}
+#promo2 h1{
+    margin-bottom: 50px;
+    margin-top: 30px;
+    font-family: sans-serif;
+    font-size: 48px;
+    color: white;
+    
+}
+
+
+#promo2 p{
+    margin-bottom: 35px;
+    margin-top: 0;
+    font-family: sans-serif;
+    font-size: 60px;
+}
+
+#organised {
+    
+    background-color:#007bff;
+}
+
+
+
+/* the promo3 */
+#promo3{
+    
+     margin-top: 10;
+    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.17)),url("../img/5.jpg"), url("../img/pass.png");
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #efefef !important;
+    text-align: left;
+    padding: 60px 50px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+}
+#promo3 h1{
+    margin-bottom: 50px;
+    margin-top: 30px;
+    font-family: sans-serif;
+    font-size: 48px;
+    color: white;
+    
+}
+
+
+#promo3 p{
+    margin-bottom: 35px;
+    margin-top: 0;
+    font-family: sans-serif;
+    font-size: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 480px){
+    
+    #Head1{
+        font-size: 24px!important;
+    }
+    #para{
+        font-size: 16px!important; 
+    }
+}
