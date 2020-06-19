@@ -14,7 +14,7 @@
     margin-left: 6px;
     margin-right: 6px;
     color: #c60711!important; 
-    font-weight:;
+    font-weight: bold!important;
     font-family: arial;
 }
 .card:hover
@@ -26,7 +26,7 @@
 #promo2{
     
      margin-top: 10;
-    background-image:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.17)),url("../img/5.jpg"), url("../img/cover 11.png");
+    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.17)),url("../img/5.jpg"), url("../img/phone.jpg");
     background-size:cover;
     background-position: center;
     background-attachment: fixed;
@@ -65,7 +65,7 @@
 #promo3{
     
      margin-top: 10;
-    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.17)),url("../img/5.jpg"), url("../img/pass.png");
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.17)),url("../img/5.jpg"), url("../img/pass.png");
     background-size:cover;
     background-position: center;
     background-attachment: fixed;
@@ -94,6 +94,268 @@
 }
 
 
+/* the promo4 */
+#promo4{
+    
+     margin-top: 10;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.17)),url("../img/5.jpg"), url("../img/hos.jpg");
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #efefef !important;
+    text-align: left;
+    padding: 60px 50px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+}
+#promo4 h1{
+    margin-bottom: 50px;
+    margin-top: 30px;
+    font-family: sans-serif;
+    font-size: 48px;
+    color: white;
+    
+}
+
+
+#promo4 p{
+    margin-bottom: 35px;
+    margin-top: 0;
+    font-family: sans-serif;
+    font-size: 60px;
+}
+
+/* the promo5 */
+#promo5{
+    
+     margin-top: 10;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.17)),url("../img/5.jpg"), url("../img/bluee cov.png");
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #efefef !important;
+    text-align: left;
+    padding: 60px 50px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+}
+#promo5 h1{
+    margin-bottom: 50px;
+    margin-top: 30px;
+    font-family: sans-serif;
+    font-size: 38px;
+    color: white;
+    
+}
+
+
+#promo5 p{
+    margin-bottom: 35px;
+    margin-top: 0;
+    font-family: sans-serif;
+    font-size: 60px;
+}
+
+
+
+/* the promo6 */
+#promo6{
+    
+     margin-top: 10;
+    background-image: linear-gradient(rgba(0,0,0,1),rgba(0,0,0,0.17)),url("../img/5.jpg"), url("../img/digital tockn.jpg");
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #efefef !important;
+    text-align: left;
+    padding: 60px 50px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+}
+#promo6 h1{
+    margin-bottom: 50px;
+    margin-top: 30px;
+    font-family: sans-serif;
+    font-size: 38px;
+    color: white;
+    
+}
+
+
+#promo6 p{
+    margin-bottom: 35px;
+    margin-top: 0;
+    font-family: sans-serif;
+    font-size: 60px;
+}
+
+/* the promo7 */
+#promo7{
+    
+     margin-top: 10;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.17)),url("../img/5.jpg"), url("../img/drrr.jpg");
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #efefef !important;
+    text-align: left;
+    padding: 60px 50px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+}
+#promo7 h1{
+    margin-bottom: 50px;
+    margin-top: 30px;
+    font-family: sans-serif;
+    font-size: 38px;
+    color: white;
+    
+}
+
+
+#promo7 p{
+    margin-bottom: 35px;
+    margin-top: 0;
+    font-family: sans-serif;
+    font-size: 60px;
+}
+
+
+
+/* the promo8 */
+#promo8{
+    
+     margin-top: 10;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.17)),url("../img/5.jpg"), url("../img/e doc.jpg");
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #efefef !important;
+    text-align: left;
+    padding: 60px 50px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+}
+#promo8 h1{
+    margin-bottom: 50px;
+    margin-top: 30px;
+    font-family: sans-serif;
+    font-size: 48px;
+    color: white;
+    
+}
+
+
+#promo8 p{
+    margin-bottom: 35px;
+    margin-top: 0;
+    font-family: sans-serif;
+    font-size: 60px;
+}
+
+/* the promo9 */
+#promo9{
+    
+     margin-top: 10;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.17)),url("../img/5.jpg"), url("../img/psych.jpg");
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #efefef !important;
+    text-align: left;
+    padding: 60px 50px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+}
+#promo9 h1{
+    margin-bottom: 50px;
+    margin-top: 30px;
+    font-family: sans-serif;
+    font-size: 38px;
+    color: white;
+    
+}
+
+
+#promo9 p{
+    margin-bottom: 35px;
+    margin-top: 0;
+    font-family: sans-serif;
+    font-size: 60px;
+}
+
+/* the promo10 */
+#promo10{
+    
+     margin-top: 10;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.17)),url("../img/5.jpg"), url("../img/wast.jpg");
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #efefef !important;
+    text-align: left;
+    padding: 60px 50px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+}
+#promo10 h1{
+    margin-bottom: 50px;
+    margin-top: 30px;
+    font-family: sans-serif;
+    font-size: 38px;
+    color: white;
+    
+}
+
+
+#promo10 p{
+    margin-bottom: 35px;
+    margin-top: 0;
+    font-family: sans-serif;
+    font-size: 60px;
+}
+
+
+
+
+/* the promo11 */
+#promo11{
+    
+     margin-top: 10;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.17)),url("../img/5.jpg"), url("../img/worker 2.jpg");
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #efefef !important;
+    text-align: left;
+    padding: 60px 50px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+}
+#promo11 h1{
+    margin-bottom: 50px;
+    margin-top: 30px;
+    font-family: sans-serif;
+    font-size: 38px;
+    color: white;
+    
+}
+
+
+#promo11 p{
+    margin-bottom: 35px;
+    margin-top: 0;
+    font-family: sans-serif;
+    font-size: 60px;
+}
 
 
 
@@ -109,5 +371,18 @@
     }
     #para{
         font-size: 16px!important; 
+    }
+    
+    #promo5 h1{
+    margin-bottom: 50px;
+    margin-top: 30px;
+    font-family: sans-serif;
+    font-size: 34px;
+    color: white;
+    
+}
+    #bluep{
+        font-size: 20px!important;
+        text-align: center!important;
     }
 }
